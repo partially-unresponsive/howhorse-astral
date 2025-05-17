@@ -11,5 +11,12 @@ Why did the horse build a road? To get state funding from the Urban Planning Cou
 - 3D models visualizer (Three.js)
 - Portfolio website
 - File sharing server
+- 2FA (two factor authentication) server, replacing Authy
+- Advent of Code solutions (written in Rust)
+- Google Sheets replacement to share spreadsheets of my ratings for multimedia (for example, like it is done in Obsidian)
+- Code snippets and local config files
+- Goodreads/iMDB alternative
 
-[Astro documentation](https://docs.astro.build)
+### References
+[Understanding Astro](https://www.ohansemmanuel.com/books/understanding-astro) - The book I'm using
+[Astro documentation](https://docs.astro.build) - Official doccumentation
