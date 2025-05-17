@@ -1,8 +1,18 @@
-# corrugated metal and horses
+# howhungry.horse
 
 Why did the horse build a road? To get state funding from the Urban Planning Council.
 
-### Potential Uses for howhungry.horse
+### Features
+Features I want implemented throughout the project:
+- Minimal boilerplate/copied code and modules
+- Proper layout that (mostly) does not reach 'industry standard' quality (as far as I'm concerned)
+- Inspired by Userweb with a cozy, minimally invasive aesthetic
+- Squircles disallowed: no rounded borders above 15%
+- Decently fast and local
+- No React
+
+
+### Potential Uses
 - Factorio world visualizer
 - Factorio blueprint visualizer (insert string and you get the visualized blueprint)
     - Alternatively, just a blueprint book library (with associated images)
@@ -19,4 +29,5 @@ Why did the horse build a road? To get state funding from the Urban Planning Cou
 
 ### References
 [Understanding Astro](https://www.ohansemmanuel.com/books/understanding-astro) - The book I'm using
+
 [Astro documentation](https://docs.astro.build) - Official doccumentation
