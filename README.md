@@ -2,8 +2,14 @@
 
 Why did the horse build a road? To get state funding from the Urban Planning Council.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+### Potential Uses for howhungry.horse
+- Factorio world visualizer
+- Factorio blueprint visualizer (insert string and you get the visualized blueprint)
+    - Alternatively, just a blueprint book library (with associated images)
+- Factorio calculator (like https://kirkmcdonald.github.io/calc.html)
+- Obsidian.md **blog** posts
+- 3D models visualizer (Three.js)
+- Portfolio website
+- File sharing server
 
 [Astro documentation](https://docs.astro.build)
