@@ -10,6 +10,7 @@ Features I want implemented throughout the project:
 - Squircles disallowed: no rounded borders above 15%
 - Decently fast and local
 - No React
+- Maximum amount of cool footer buttons
 
 
 ### Potential Uses

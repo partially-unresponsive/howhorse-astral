@@ -1,0 +1,34 @@
+---
+import Navigator from "../components/Navigator.astro";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>V=IR Calculator</title>
+  </head>
+  <body>
+    <Navigator />
+
+    <h1>V=IR Calculator</h1>
+    <p>
+      Just insert the 2 known variables and this form will automatically figure
+      out the unknown.
+    </p>
+
+    <div class="form">
+      <form action="">
+        <label for="volt">Voltage:</label><br />
+        <input type="text" id="volt" name="volt" /><br />
+        <label for="current">Current:</label><br />
+        <input type="text" id="current" name="curr" /><br />
+        <label for="resist">Resistance:</label><br />
+        <input type="text" id="resistance" name="resistance" /><br />
+        <input type="submit" value="Enter" />
+      </form>
+    </div>
+  </body>
+</html>
