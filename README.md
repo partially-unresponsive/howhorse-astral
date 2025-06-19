@@ -11,6 +11,7 @@ Features I want implemented throughout the project:
 - Decently fast and local
 - No React
 - Maximum amount of cool footer buttons
+- LaTeX support(?)
 
 
 ### Potential Uses

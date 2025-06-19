@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(128, 91, 91);
+}
+
+.flag {
+  display: inline-block;
+  width: 18px;
+  aspect-ratio: 14 / 9;
+}
+
+.flag.icon {
+  width: 3em;
+}
+
+.flag.icon.large {
+  width: 4em;
+}
+.flag.transgender {
+   background:
+    linear-gradient(#00d2ff 20%, #ffa6b9 0 40%, white 0 60%, #ffa6b9 0 80%, #00d2ff 0)
+}
+
+.footer88 {
+  border: 0.2rem ridge rgba(178, 179, 177, 0.6);
+}
+
+input {
+  background-color: rgba(228, 94, 61, 0.671);
+}

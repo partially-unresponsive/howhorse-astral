@@ -1,4 +1,6 @@
 ---
+import Navigator from "../components/Navigator.astro";
+
 export const profilePicture = "/horse_stare.jpg";
 ---
 
@@ -8,9 +10,39 @@ export const profilePicture = "/horse_stare.jpg";
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
+    <link rel="stylesheet" href="src/style.css" />
     <title>Astro</title>
   </head>
   <body>
     <Navigator />
 
+    <h2>About Me</h2>
+    <section>
+      <p>hewwo, I'm CutieSai.</p>
+      <p>Few things known about me:</p>
+      <ul>
+        <li>grandmaster nerd</li>
+        <li>frontend hater</li>
+        <li>engineer</li>
+        <li>
+          little creature <div
+            class="flag transgender"
+            role="img"
+            aria-label=":3"
+          >
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <a href="https://youtu.be/rI3yD3WAcz4">
+      <img
+        class="footer88"
+        src="caramelldansen.gif"
+        alt="caramelldansen.gif"
+        height=" 31"
+        width="88"
+      />
+    </a>
+  </body>
 </html>
