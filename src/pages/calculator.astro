@@ -20,7 +20,7 @@ import Navigator from "../components/Navigator.astro";
       out the unknown.
     </p>
 
-    <div class="form" onsubmit="">
+    <div class="form">
       <form action="">
         <label for="volt">Voltage (V):</label><br />
         <input type="text" id="volt" name="volt" /><br />
@@ -28,8 +28,11 @@ import Navigator from "../components/Navigator.astro";
         <input type="text" id="current" name="curr" /><br />
         <label for="resist">Resistance (Ohms):</label><br />
         <input type="text" id="resistance" name="resistance" /><br />
-        <input type="submit" value="Submit" />
+        <input type="button" value="Enter" onclick="OhmsFunc()"/>
       </form>
     </div>
+
+    <p id="virresult"></p>
+
   </body>
 </html>

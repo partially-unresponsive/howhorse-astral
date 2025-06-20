@@ -31,5 +31,4 @@ Features I want implemented throughout the project:
 
 ### References
 [Understanding Astro](https://www.ohansemmanuel.com/books/understanding-astro) - The book I'm using
-
 [Astro documentation](https://docs.astro.build) - Official doccumentation

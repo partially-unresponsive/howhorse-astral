@@ -27,3 +27,7 @@ body {
 input {
   background-color: rgba(228, 94, 61, 0.671);
 }
+
+#basilisk {
+  border: 0.6rem ridge rgba(149, 211, 86, 0.6)
+}
